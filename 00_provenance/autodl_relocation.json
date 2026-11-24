@@ -1,0 +1,12 @@
+{
+  "purpose": "P6_B_path_only_relocation_v1",
+  "origin_root": "D:\\MMOE_UWL_cf",
+  "source_root": "/root/autodl-tmp/cf_bundle_v2/MMOE_UWL_cf",
+  "destination": "/root/autodl-tmp/MMOE_UWL_cf_linux",
+  "source_bundle": "437b69f7b56c5ce35632fc9904db3d7e7c7537990e285d72f7579c02c41ab323",
+  "changed_json_files": 38,
+  "unchanged_binary_files": true,
+  "checkpoint_cfg_preserved": true,
+  "new_candidates": false,
+  "model_training": false
+}

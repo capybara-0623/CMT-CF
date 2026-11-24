@@ -1,0 +1,127 @@
+{
+  "archive_manifest_sha256": "437b69f7b56c5ce35632fc9904db3d7e7c7537990e285d72f7579c02c41ab323",
+  "frozen_models": [
+    {
+      "dataset": "BPIC15_2_f2",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_BPIC15_2_f2_full_seed42.pt",
+      "checkpoint_sha256": "239af561dcbd9817e1ddf8569e20adc8653d88363512d3caca5602d5bc2dd2c9",
+      "protocol": "evaluation_manifests/cf_comparison_v1/BPIC15_2_f2_full_seed42/protocol.json",
+      "protocol_sha256": "fecd24c4731839a0a0db37fb6ee5bcc293b86703be2b51e5233ffa54d7aee4e4",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 132
+    },
+    {
+      "dataset": "BPIC15_3_f2",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_BPIC15_3_f2_full_seed42.pt",
+      "checkpoint_sha256": "2f76bf750bc92c5a412593483bfc477199294c01a260b0b8e913de76ac2e1fdd",
+      "protocol": "evaluation_manifests/cf_comparison_v1/BPIC15_3_f2_full_seed42/protocol.json",
+      "protocol_sha256": "5d7254c3ce884219393cdbe0d0af6d91aa95a03022105a9a93b4a31d44ba865f",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 124
+    },
+    {
+      "dataset": "BPIC15_4_f2",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_BPIC15_4_f2_full_seed42.pt",
+      "checkpoint_sha256": "146f0f72b8f7e649f0d97be35dd0827db3e5be92e3cc2311fd1fa2ce72d42912",
+      "protocol": "evaluation_manifests/cf_comparison_v1/BPIC15_4_f2_full_seed42/protocol.json",
+      "protocol_sha256": "6314fdccc354c942c7864bb79f238d89728d355f69daf7f14bb3ce29ae55536d",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 82
+    },
+    {
+      "dataset": "BPIC15_5_f2",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_BPIC15_5_f2_full_seed42.pt",
+      "checkpoint_sha256": "20d4442586a15138169816fa5fee9ddeae17504f16a01815c1f4963032b98b7f",
+      "protocol": "evaluation_manifests/cf_comparison_v1/BPIC15_5_f2_full_seed42/protocol.json",
+      "protocol_sha256": "43d56fbdc950af5f51febdd8c95014232ef45dfef0c4f14b9b4bee675f2ae94b",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 134
+    },
+    {
+      "dataset": "sepsis_cases_1",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_sepsis_cases_1_full_seed42.pt",
+      "checkpoint_sha256": "5fa200c36040e91989ad947d37a6dd922251ae2254deb5b4775d0fef7a5bafca",
+      "protocol": "evaluation_manifests/cf_comparison_v1/sepsis_cases_1_full_seed42/protocol.json",
+      "protocol_sha256": "9e0639dee2f8e7509ed3ad33fd35915135f20df00e24e25a45d8d17aa6d63cd0",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 185
+    },
+    {
+      "dataset": "sepsis_cases_2",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_sepsis_cases_2_full_seed42.pt",
+      "checkpoint_sha256": "3bab1be97b2542c541a85dccb03c86ab1680945cf1da296c3fe08aeae429a1d3",
+      "protocol": "evaluation_manifests/cf_comparison_v1/sepsis_cases_2_full_seed42/protocol.json",
+      "protocol_sha256": "6c7e703bbd8e02bd46dc2f9ff4e66d23319000e1f241d9d29335e2491852d669",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 60
+    },
+    {
+      "dataset": "sepsis_cases_4",
+      "checkpoint": "results_pattern_v5_auxfree_minrelax_seed42_r2/model_sepsis_cases_4_full_seed42.pt",
+      "checkpoint_sha256": "3f7a4481d3e9d4d288d4a71cd5ae3b633a78cb971aafc3047e4020a88cbb08b4",
+      "protocol": "evaluation_manifests/cf_comparison_v1/sepsis_cases_4_full_seed42/protocol.json",
+      "protocol_sha256": "eeb239d4ccbf23bcc334ee2c6e95e3530d3c5fce61e19332201bc34336d11e0a",
+      "hidden_dim": 128,
+      "num_layers": 2,
+      "max_seq_len": 185
+    }
+  ],
+  "accepted_bridge_files": [
+    {
+      "original_path": "cf_search/formal_bridge.py",
+      "sha256": "12043341797558ba90b7c8d126f7a4c51c637dff61952c37c74f2e06f9bfab16"
+    },
+    {
+      "original_path": "configs/cf_p6b_bridge.json",
+      "sha256": "130844c68851140ec6eb9c4394ed64395fbafa5f2d0a55d0c84fecbcd9e0e124"
+    },
+    {
+      "original_path": "evaluation/cf_bridge_protocol.py",
+      "sha256": "0946d33b9a76c97a57ec606144e8055fd45635a92ae4bb4e0b569c5ae4c8aa61"
+    },
+    {
+      "original_path": "evaluation/cf_bridge_results.py",
+      "sha256": "789f01f0e43a3535297ee4a5f66dcf384da387aac97e5e1308fff5cf3fafeb09"
+    },
+    {
+      "original_path": "run_cf_formal_bridge.py",
+      "sha256": "5dc7cdc7a0ba1e53c94bfa4b07603e72aa8d225aff912ef91269b0df1eccaae5"
+    },
+    {
+      "original_path": "tests/test_cf_formal_bridge.py",
+      "sha256": "307220db4641e8e8ce05053485e7bfabd0b15a185ab03cc7cb6ec1e21e161d1c"
+    },
+    {
+      "original_path": "tools/recover_p6b_buliga_topk_erratum.py",
+      "sha256": "6ff77f788021b6d896daf1613987f6ff2753b4dcd02ee849a2a4619f07bcfd1a"
+    },
+    {
+      "original_path": "tools/run_p6b_bridge_checks.ps1",
+      "sha256": "c4ce9c8e42c6d63697d79eaf0c9c3569b46691be2332c1f51561b021998fc34d"
+    },
+    {
+      "original_path": "tools/verify_p6b_bridge.py",
+      "sha256": "62b82fc8cc0a4973d449a880b3836cc8ca21bc1fc61fcb5a00449cf25f6ece2a"
+    }
+  ],
+  "posthoc_script_sha256": "ae7a12c95c0b21c192c6617c95eecb3ae7a00b2e069fc217d1395882215c4d9a",
+  "counts_by_component": {
+    "00_provenance": 3,
+    "01_prediction_training": 5,
+    "02_data_preprocessing": 20,
+    "03_patterns_search_rules": 463,
+    "04_counterfactual_search": 14,
+    "05_audit_evaluation": 16,
+    "06_experiment_and_baseline": 40,
+    "07_frozen_models_and_protocols": 131,
+    "08_paper_evidence": 22
+  },
+  "indexed_files": 714,
+  "indexed_bytes": 281433332
+}
