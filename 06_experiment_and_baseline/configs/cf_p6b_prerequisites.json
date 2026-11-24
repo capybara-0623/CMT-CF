@@ -1,0 +1,12 @@
+{
+  "purpose": "P6_B_isolated_reference_and_DFA_completion",
+  "base_protocol_dir": "outputs/p6b_protocol_20260918_v2",
+  "reference_recovery_allowed": true,
+  "recovery_datasets": ["sepsis_cases_2", "sepsis_cases_4", "BPIC15_3_f2", "BPIC15_4_f2", "BPIC15_5_f2"],
+  "training_allowed": false,
+  "formal_matrix_allowed": false,
+  "candidate_generation_allowed": false,
+  "audit_tuning_allowed": false,
+  "created_allowed": false,
+  "statistical_model_fit_allowed": false
+}

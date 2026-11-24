@@ -1,0 +1,14 @@
+# Python 3.12; install CPU torch 2.4.1 separately.
+# Actual accepted local runtime, not the historical root requirements.txt.
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+joblib==1.5.2
+networkx==3.5
+flloat==0.3.0
+pythomata==0.3.2
+lark-parser==0.12.0
+sympy==1.14.0
+graphviz==0.21
+matplotlib==3.10.7

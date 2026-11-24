@@ -1,0 +1,104 @@
+{
+  "buliga": {
+    "repository": "https://github.com/abuliga/AAAI2025-temporal-constrained-counterfactuals",
+    "commit": "213acbab59bd2952194378ca4ef984d567e67e7f",
+    "files": [
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\LICENSE.md",
+        "source_path": "LICENSE.md",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/LICENSE.md?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "d97360644c9d0116ba8d8ada9c7d2a43804bcee9230b9beb8c163cdcb346f087"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\README.md",
+        "source_path": "README.md",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/README.md?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "1a45e17ad74f21b901f19052a29f848b78a0ce9d135ace7f160d7c07ef096cb3"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\requirements.txt",
+        "source_path": "requirements.txt",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/requirements.txt?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "b5608ad0f025a25e881f43380171016958cb81c3ec23a2de0f8af5c08ad424b6"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\run_ltlf_cf_pipeline.py",
+        "source_path": "run_ltlf_cf_pipeline.py",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/run_ltlf_cf_pipeline.py?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "b4789e4475fab6f46cb3d335c0ed1f9f73d7aa8794e1d75ab3d1a21da33db1cf"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\local_packages\\DiCE\\LICENSE",
+        "source_path": "local_packages/DiCE/LICENSE",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/local_packages/DiCE/LICENSE?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "27ebda9d51f0a56b7e281ccd8230a27236dcb51c05f64b07869ecf6e965d68b0"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\local_packages\\DiCE\\dice_ml\\explainer_interfaces\\dice_ltlf_genetic.py",
+        "source_path": "local_packages/DiCE/dice_ml/explainer_interfaces/dice_ltlf_genetic.py",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/local_packages/DiCE/dice_ml/explainer_interfaces/dice_ltlf_genetic.py?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "5356c9266b300b2454db019eb1f310c1892abeccc3fcd17832e52b0e93b0fe53"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\local_packages\\Declare4Py\\Declare4Py\\ProcessMiningTasks\\ConformanceChecking\\LTLAnalyzer.py",
+        "source_path": "local_packages/Declare4Py/Declare4Py/ProcessMiningTasks/ConformanceChecking/LTLAnalyzer.py",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/local_packages/Declare4Py/Declare4Py/ProcessMiningTasks/ConformanceChecking/LTLAnalyzer.py?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "14ac61dafc2ab911d1da9da50c8dc64121561e994861ca936b1d25076196d980"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\buliga\\local_packages\\Declare4Py\\Declare4Py\\Utils\\utils.py",
+        "source_path": "local_packages/Declare4Py/Declare4Py/Utils/utils.py",
+        "url": "https://api.github.com/repos/abuliga/AAAI2025-temporal-constrained-counterfactuals/contents/local_packages/Declare4Py/Declare4Py/Utils/utils.py?ref=213acbab59bd2952194378ca4ef984d567e67e7f",
+        "sha256": "720698f8d879ad2bba81652e0f22a03742d7962aae8e71eb9d220bbaa5366d04"
+      }
+    ]
+  },
+  "created": {
+    "repository": "https://github.com/Olu93/project_CREATED",
+    "commit": "a376a41ac51018c43af29a5add7aed6504a37277",
+    "files": [
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\LICENSE",
+        "source_path": "LICENSE",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/LICENSE?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\README.md",
+        "source_path": "README.md",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/README.md?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "a17f61bfc25ea33d0faec493c790619cb1e77edcf25ce129451ac894515d328a"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\requirements.txt",
+        "source_path": "requirements.txt",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/requirements.txt?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "0309da158a574c666256fe991401a79f3f3d0b53f46a7af6f0dbb0194d22f2e2"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\setup.py",
+        "source_path": "setup.py",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/setup.py?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "699390255bdc027927d499a0ae1f9478410ff22f9b56f010e9956559b58a2e33"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\src\\thesis_generators\\generators\\heuristic.py",
+        "source_path": "src/thesis_generators/generators/heuristic.py",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/src/thesis_generators/generators/heuristic.py?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "9186834c576275a770e6d496995f8e97011cb8d1af47408633cdfb01a0175cfc"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\src\\thesis_generators\\predictors\\wrapper.py",
+        "source_path": "src/thesis_generators/predictors/wrapper.py",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/src/thesis_generators/predictors/wrapper.py?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "c33122bfcfaf08c406e40204dee6900f6959baecd4afb7b87e3c9b5d394486e8"
+      },
+      {
+        "path": "D:\\MMOE_UWL_cf\\.runtime\\p5_sources\\created\\src\\thesis_generators\\helper\\constants.py",
+        "source_path": "src/thesis_generators/helper/constants.py",
+        "url": "https://api.github.com/repos/Olu93/project_CREATED/contents/src/thesis_generators/helper/constants.py?ref=a376a41ac51018c43af29a5add7aed6504a37277",
+        "sha256": "fef114540ea403e1a4b1ca1278ee772cf78c8d73866ce132a587af3621ac3764"
+      }
+    ]
+  }
+}

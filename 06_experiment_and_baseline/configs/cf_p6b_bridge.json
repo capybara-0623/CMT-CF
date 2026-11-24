@@ -1,0 +1,10 @@
+{
+  "purpose": "P6_B_formal_generation_bridge_v1",
+  "prerequisite_dir": "outputs/p6b_prerequisites_20260918_v2",
+  "candidate_generation_allowed": false,
+  "formal_matrix_allowed": false,
+  "training_allowed": false,
+  "reference_recovery_allowed": false,
+  "audit_tuning_allowed": false,
+  "created_allowed": false
+}
